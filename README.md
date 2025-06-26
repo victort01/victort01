@@ -1,16 +1,25 @@
-## Hi there 👋
+# Paulo Victor
 
-<!--
-**victort01/victort01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Sou entusiasmado por conhecimento desde sempre e isso me levou até onde estou. Isso não foi diferente com a área de tecnologia não foi diferente, mas ainda não estou satisfeito. Por isso, estou sempre buscando novas experiências e desafios.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Áreas de atuação
+- Desenvolvimento Web (Java com Spring Boot)  
+- Ciência de Dados & Machine Learning (Python)
+
+## 📂 Projetos em destaque
+- [DSList](https://github.com/victort01/dslist) 
+---
+
+## 📫 Meu LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/victort01) 🔗
+
+---
+
+## 💼 Aberto a oportunidades  
+Estou buscando novas oportunidades para aplicar minhas habilidades e crescer profissionalmente. Vamos conversar?
+
+---
+
+⚡ Obrigado por olhar meu perfil até aqui! :) 
